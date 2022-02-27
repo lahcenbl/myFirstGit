@@ -6,5 +6,5 @@
 ```
 % git add .
 % git commit -m "message to show in commit"
-git push
+% git push
 ```
